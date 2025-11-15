@@ -107,7 +107,10 @@
   <i>“Keep designing. Keep dreaming. Keep creating magic.” ✨</i>  
 </p>
 
-![spiral gif](https://github.com/user-attachments/assets/b9ad1a7e-a8c8-47f6-b33c-b03f88f43e5e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9ad1a7e-a8c8-47f6-b33c-b03f88f43e5e" width="250">
+</p>
+
 
 
 ---
