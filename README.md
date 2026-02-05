@@ -1,26 +1,23 @@
 <!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,17,20,25,30&height=180&section=header&text=Hi%2C%20I%27m%20Manasvi!%20%F0%9F%92%AB&fontSize=40&fontAlignY=35&desc=UI%2FUX%20Designer%20%7C%20Frontend%20Developer%20%7C%20Web3%20Explorer&descAlignY=60&fontColor=ffffff" width="100%" />
+  <img src="./banner.svg" width="100%" />
+
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Welcome to my space 👩‍💻
-</h1>
-
-<h3 align="center">🎨 UI/UX Designer | 💻 Frontend Developer | 🌐 Web3 Explorer</h3>
-
 <p align="center">
-  <i>“Good design is where creativity meets logic — and a touch of magic.” ✨</i>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=🎨+UI%2FUX+Designer;💻+Frontend+Developer;🌐+Web3+Explorer&loop=true&duration=2500" />
+</p>
+<p align="center">
+  <i>“Good design is where creativity meets logic, and a touch of magic.” ✨</i>
 </p>
 
 ---
 
 ## 🌌 About Me
 
-👩‍🎨 **Designer + Developer** — I bring ideas to life through design systems, clean code, and user empathy.  
+👩‍🎨 **Designer + Developer** -> I bring ideas to life through design systems, clean code, and user empathy.  
 🎯 **Mission:** To make digital experiences both beautiful and meaningful.  
-🪄 *Half designer, half wizard — fueled by caffeine and Figma frames.*
+🪄 *Half designer, half wizard -fueled by caffeine and Figma frames.*
 
 ---
 
