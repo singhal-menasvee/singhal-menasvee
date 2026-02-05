@@ -47,7 +47,7 @@
 
 ## 🏆 Achievements
 
-🏆 **Smart India Hackathon 2k25 Winner- Teerthflow
+🏆 **Smart India Hackathon 2k25 Winner**- Teerthflow        
 🏅 **Cybersecurity Hackathon Finalist** – DeepGuard  
 🎓 **UI/UX Design Lead** – Student's Affair Council GLA  
 🎨 Designed 50+ creative assets & campaign visuals  
