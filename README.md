@@ -19,7 +19,6 @@
 ## 🌌 About Me
 
 👩‍🎨 **Designer + Developer** — I bring ideas to life through design systems, clean code, and user empathy.  
-💫 Currently diving deep into **Web3**, exploring how design can humanize decentralized tech.  
 🎯 **Mission:** To make digital experiences both beautiful and meaningful.  
 🪄 *Half designer, half wizard — fueled by caffeine and Figma frames.*
 
@@ -48,10 +47,11 @@
 
 ## 🏆 Achievements
 
+🏆 **Smart India Hackathon 2k25 Winner- Teerthflow
 🏅 **Cybersecurity Hackathon Finalist** – DeepGuard  
-🎓 **UI/UX Design Lead** – Tech Club  
+🎓 **UI/UX Design Lead** – Student's Affair Council GLA  
 🎨 Designed 50+ creative assets & campaign visuals  
-💡 **ICP Challenge Participant** – integrated Google Calendar + OAuth2 flows
+
 
 ---
 
